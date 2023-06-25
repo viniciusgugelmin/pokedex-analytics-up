@@ -1,3 +1,5 @@
+namespace pokedex_analytics_up.Models;
+
 public class Result<TSuccess, TError>
 {
     public bool IsSuccess { get; }

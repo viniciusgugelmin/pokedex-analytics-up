@@ -1,4 +1,4 @@
-namespace pokedex_analytics_up;
+namespace pokedex_analytics_up.Models;
 
 public class Pokemon
 {

@@ -1,8 +1,7 @@
 using System.Net.Http.Headers;
 using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
-using System.Net.Http;
-using System.Threading.Tasks;
+using pokedex_analytics_up.Models;
 
 namespace pokedex_analytics_up.Controllers;
 
